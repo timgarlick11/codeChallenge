@@ -1,0 +1,44 @@
+
+.sentence  {
+	width: 1000px;
+	margin: 0 auto;
+	font-size: 30px;
+}
+
+
+.first {
+background: green;
+position: absolute;
+padding-top: 5px;
+text-align: center;
+box-sizing: border-box;
+width:50px;
+height:30px;
+color: white;
+display: none;
+}
+
+.second {
+
+background: green;
+width: 125px;
+height: 30px;
+position: absolute;
+padding-top: 5px;
+text-align: center;
+box-sizing: border-box;
+display: none;
+color: white;
+
+}
+
+.one {
+	color: orange;
+}
+
+.two {
+	color: red;
+}
+.three {
+	color: black;
+}
